@@ -5,4 +5,4 @@ imageio
 imageio-ffmpeg
 flask
 gitpython
-urllib3
+urllib3==1.26.16
