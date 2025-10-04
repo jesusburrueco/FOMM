@@ -1,9 +1,24 @@
+# Bot y Telegram
 python-telegram-bot==13.15
+urllib3==1.26.16
+
+# FOMM y procesamiento de imágenes/videos
 torch
 torchvision
 imageio
 imageio-ffmpeg
+PyYAML
+tqdm
+numpy
+scipy
+opencv-python
+matplotlib
+scikit-image
+Pillow
+
+# Servidor web
 flask
+
+# Git y utilidades
 gitpython
-urllib3==1.26.16
-pyyaml
+requests
